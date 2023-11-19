@@ -1,0 +1,1 @@
+# python-10-evf-hazi-feladatok
